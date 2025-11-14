@@ -9,6 +9,19 @@
 
 This currently works on PyTorch 2.8.0.dev20250506.
 
+## Project Motivation
+
+For a comprehensive investigation into the motivation behind this project, the problems it solves, and how it compares to alternative solutions, please read:
+
+- 📄 [Project Motivation (Chinese)](PROJECT_MOTIVATION.md) - 项目动机调查报告（中文）
+- 📄 [Project Motivation (English)](PROJECT_MOTIVATION_EN.md) - Project motivation investigation report
+
+These documents provide detailed analysis of:
+- The core problem: automatic model sharding and parallelization optimization
+- Comparison with existing solutions (ColossalAI, Alpa, FlexFlow, FSDP, etc.)
+- AutoParallel's unique value proposition and technical approach
+- Current status and future development direction
+
 ## Installing it
 
 ```
